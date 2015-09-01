@@ -25,10 +25,10 @@ Com o intuito principal de aumentar o percentual de doação de sangue no Brasil
 [Clique aqui](documentacao/documentation.pdf)
 
 ## Layouts
-[Aplicativo](layouts/DiaD_App.pdf)
-[Web-app](layouts/DiaD_Web.pdf)
-[Recursos](layouts/DiaD_Resource.pdf)
-[Baixe os arquivos editáveis](layouts)
+- [Aplicativo](layouts/DiaD_App.pdf)
+- [Web-app](layouts/DiaD_Web.pdf)
+- [Recursos](layouts/DiaD_Resource.pdf)
+- [Baixe os arquivos editáveis](layouts)
 
 ## Baixe o protótipo da aplicação IOS
 [Clique aqui](prototipo-aplicacao-ios)
